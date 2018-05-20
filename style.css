@@ -1,0 +1,9 @@
+
+.accordion-head i{
+    font-size: 2.5em;
+    float: right;
+}
+
+.accordion-head > .collapsed > i:before{
+    content: "\f105";
+}
